@@ -4,5 +4,5 @@ Fake news is a big issue in our current world. Due to the covid 19 pandemic the 
 
 Fake news is harmful to our communities as it misinforms the public and destroys trust. Most fake news is financially motivated since many of these scammers are looking for viewers to visit their sites for ad revenue.
 
-# Overview
+## Overview
 Snooper is a chrome extension which uses natural language processes to score a web article against a binary classifier to determine whether the article is likely to be fake news or real news.
